@@ -1,1 +1,1 @@
-A grunt tracking app for SR4
+A grunt tracking app for SR4 created using node and react.
